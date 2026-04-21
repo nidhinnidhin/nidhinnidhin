@@ -23,17 +23,39 @@
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nestjs,express,react,nextjs,django" />
+</p>
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express)
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</p>
 
-### 🧱 Architecture & Concepts
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
 
-* Clean Architecture
-* SOLID Principles
-* RESTful API Design
-* Microservices Architecture
-* Scalable System Design
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+</p>
 
+### 🧰 Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
+---
+
+### 🧠 Concepts & Architecture
+
+- Clean Architecture  
+- SOLID Principles  
+- Microservices Architecture  
+- REST API Design  
+- Scalable System Design  
 ### ☁️ Cloud & DevOps
 
 ![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes)
