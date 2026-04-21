@@ -1,4 +1,8 @@
-# Hi 👋, I'm Nidhin
+# Hi 👋, I'm Nidhin  
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&lines=Backend+Developer;NestJS+%7C+Node.js+%7C+Microservices;Clean+Architecture+%7C+SOLID;Docker+%7C+Kubernetes+Enthusiast" />
+</p>
 
 💻 Backend-Focused Full-Stack Developer | Node.js • TypeScript • NestJS
 🚀 Building scalable systems using Clean Architecture & Microservices
