@@ -1,18 +1,18 @@
 # Hi 👋, I'm Nidhin
 
-💻 Full-Stack Developer | JavaScript • TypeScript • Node.js
-🌍 Passionate about building scalable web apps, APIs, and modern user experiences
+💻 Backend-Focused Full-Stack Developer | Node.js • TypeScript • NestJS
+🚀 Building scalable systems using Clean Architecture & Microservices
 📍 India
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🔭 Currently working on **full-stack web applications**
-* 🌱 Learning **advanced backend systems, cloud (AWS), and system design**
-* 🧠 Interested in **AI, scalable architectures, and modern web technologies**
-* 💬 Ask me about **React, Node.js, APIs, MongoDB**
-* ⚡ Fun fact: I love turning ideas into real-world applications
+* 🔭 Currently working on **scalable backend systems & microservices**
+* 🌱 Learning **advanced system design, Kubernetes, and cloud-native architecture**
+* 🧠 Strong focus on **Clean Architecture, SOLID principles, and maintainable code**
+* 💬 Ask me about **Node.js, NestJS, REST APIs, Microservices**
+* ⚡ I enjoy designing systems that are **scalable, modular, and production-ready**
 
 ---
 
@@ -20,57 +20,96 @@
 
 ### 🚀 Languages & Frameworks
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express)
+![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express)
 
-### 🗄️ Databases & Cloud
+### 🧱 Architecture & Concepts
 
-![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,aws,firebase)
+* Clean Architecture
+* SOLID Principles
+* RESTful API Design
+* Microservices Architecture
+* Scalable System Design
 
-### 🧰 Tools & Technologies
+### ☁️ Cloud & DevOps
 
-![My Skills](https://skillicons.dev/icons?i=docker,git,postman,vscode)
+![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes)
+
+### 🗄️ Databases
+
+![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)
+
+### 🧰 Tools
+
+![My Skills](https://skillicons.dev/icons?i=git,postman,vscode)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-| Project      | Description                                        | Tech Stack              |
-| ------------ | -------------------------------------------------- | ----------------------- |
-| 🌐 Project 1 | Full-stack web app solving real-world problem      | React, Node.js, MongoDB |
-| 📊 Project 2 | API-based platform with authentication & dashboard | Next.js, Express        |
-| 🤖 Project 3 | AI/automation-based project                        | Python / Node.js        |
+### 🔹 Backend & API Engineering
+
+* Designed and built **modular backend services using Node.js & NestJS**
+* Implemented **authentication systems (JWT, middleware-based security)**
+* Developed **scalable REST APIs with proper layering and separation of concerns**
+
+### 🔹 Architecture & System Design
+
+* Applied **Clean Architecture** principles for maintainable codebases
+* Followed **SOLID principles** to improve scalability and testability
+* Structured projects for **real-world production readiness**
+
+### 🔹 Microservices & Distributed Systems
+
+* Explored **microservice-based architecture**
+* Built services with **decoupled communication patterns**
+* Focused on **scalability and service isolation**
+
+### 🔹 DevOps & Cloud
+
+* Containerized applications using **Docker**
+* Learning and applying **Kubernetes for orchestration**
+* Worked with **cloud-based deployment concepts (AWS)**
+
+---
+
+## 📂 Notable Work Areas
+
+* 📦 Backend APIs & Service Architecture
+* 🔐 Authentication & Security (JWT)
+* ⚙️ Middleware & Framework Design Patterns
+* ☁️ Cloud & Serverless Exploration
+* 🧪 Experimental Repos for Continuous Learning
 
 ---
 
 ## 📊 GitHub Stats
 
-![Nidhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhinnidhin\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinnidhin\&layout=compact\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nidhinnidhin\&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight\&no-frame=true\&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=nidhinnidhin\&theme=tokyonight\&no-frame=true\&row=1)
 
 ---
 
 ## 📫 Connect With Me
 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/nidhinnidhin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:YOUR_EMAIL)
 
 ---
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+![](https://komarev.com/ghpvc/?username=nidhinnidhin\&color=blue)
 
 ---
 
-### ✨ "Building scalable solutions and continuously learning every day."
-
+### ✨ "Designing scalable systems with clean architecture and engineering discipline."
