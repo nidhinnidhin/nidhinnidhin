@@ -106,36 +106,5 @@
 * ☁️ Cloud & Serverless Exploration
 * 🧪 Experimental Repos for Continuous Learning
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhinnidhin\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinnidhin\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=nidhinnidhin\&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=nidhinnidhin\&theme=tokyonight\&no-frame=true\&row=1)
-
----
-
-## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/nidhinnidhin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:YOUR_EMAIL)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=nidhinnidhin\&color=blue)
-
----
 
 ### ✨ "Designing scalable systems with clean architecture and engineering discipline."
