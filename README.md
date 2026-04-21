@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Nidhin&fontSize=40&fontColor=ffffff" />
 
 
 
@@ -26,7 +25,7 @@
 
 🚀 Building scalable systems using Clean Architecture & Microservices
 
-📍 India
+📍 Trivandrum Kerala IN
 
 
 
